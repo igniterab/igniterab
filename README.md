@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Bhardwaj.
-- 👀 I’m interested in Web Development(MERN and Django) , Machine Learning and Cloud (GCP and AWS).
-- 🌱 I’m currently learning Cloud.
+- 👀 I’m interested in working with Web Development(MERN and Django) , Machine Learning and Cloud (GCP and AWS).
+- 🌱 I’m currently pursuing Bachelors in Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on Web D projects integrated with ML algos.
 - 📫 How to reach me ?? just search igniterab on chrome.
 
